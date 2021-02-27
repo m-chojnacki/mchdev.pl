@@ -1,0 +1,44 @@
+{
+  "baseURL": "https://mchdev.pl/",
+  "languageCode": "en-us",
+  "title": "Marcin Chojnacki Dev",
+  "theme": "hello-friend-ng",
+  "author": {
+    "name": "Marcin Chojnacki"
+  },
+  "disableKinds": ["term", "taxonomy", "RSS", "sitemap"],
+  "params": {
+    "homeSubtitle": "Apps & software development",
+    "logo": {
+      "logoMark": " ",
+      "logoText": "mchdev.pl",
+      "logoCursorDisabled": true
+    },
+    "social": [
+      {
+        "name": "email",
+        "url": "mailto:contact@mchdev.pl"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/m-chojnacki"
+      }
+    ]
+  },
+  "menu": {
+    "main": [
+      {
+        "identifier": "apps",
+        "name": "Apps",
+        "url": "apps/",
+        "weight": 1
+      },
+      {
+        "identifier": "about",
+        "name": "About",
+        "url": "about/",
+        "weight": 2
+      }
+    ]
+  }
+}
