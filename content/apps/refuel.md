@@ -1,7 +1,7 @@
-+++
-title = "ReFuel"
-date = "2021-04-10"
-+++
+{
+  "title": "ReFuel",
+  "date": "2021-04-10"
+}
 
 ReFuel is a fast and simple app to track and manage your fuel expenses. Add your vehicle to the app and let us do the rest. Each time you visit the petrol station save your receipt and write down your odometer value. ReFuel will keep track of your mileage and fuel consumption.
 
@@ -27,6 +27,9 @@ We are open to your feedback. Download the app now and let us know what feature 
 
 [Download on the App Store](#)
 
+[Terms and Conditions](terms)  
+[Privacy Policy](privacy)
+
 ---
 
-![Screenshots](/images/apps/refuel/all.png)
+![Screenshots](all.png)

@@ -1,7 +1,7 @@
-+++
-title = "About"
-aliases = ["about-us","contact"]
-+++
+{
+  "title": "About",
+  "aliases": ["about-us", "contact"]
+}
 
 Marcin Chojnacki Dev is apps and software development company specializing in mobile apps. I develop and publish my own apps as well as executing your projects.
 
