@@ -32,4 +32,12 @@ We are open to your feedback. Download the app now and let us know what feature 
 
 ---
 
+If you have encountered any problems with the app, reach us at support@mchdev.pl.
+
+Feedback form is available right from the app settings.
+
+You could also reach App Store support directly in cases related to transactions and refunds.
+
+---
+
 ![Screenshots](all.png)
