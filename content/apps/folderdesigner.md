@@ -13,7 +13,7 @@ Coming soon!
 
 [Download on the App Store](#)
 
-[Terms and Conditions](terms)
+[Terms and Conditions](terms)  
 [Privacy Policy](privacy)
 
 ---
